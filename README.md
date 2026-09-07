@@ -1,4 +1,4 @@
-# Data Preparation & Pipeline Project — Automobile Dataset
+# Data Preparation & Pipeline Project
 
 Project ini membangun pipeline sederhana menggunakan Python dan library seperti pandas, numpy, dan sejenisnya untuk mengubah dataset otomotif mentah (dirty) menjadi dataset bersih (processed) yang
 siap digunakan untuk analisis atau pemodelan.
